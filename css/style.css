@@ -345,3 +345,23 @@ body{
     margin-top: 5px;
   }
 
+
+  #menu {
+    padding-bottom: 0;
+  }
+
+  #menu .container {
+    width: 100%;
+  }
+	
+  .menu-thumb img {
+    width: 100%;
+    transition: 0.5s;
+  }
+ 
+#menu .menu-thumb {
+    overflow: hidden;
+    position: relative;
+    cursor: pointer;
+    width: 107%;
+  }
